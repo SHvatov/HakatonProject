@@ -23,9 +23,9 @@
                         <Cursor fx:constant="HAND" />
                      </cursor>
                   </Button>
-                  <Label prefHeight="55.0" prefWidth="183.0" text="ПОМОГИТЕ" textFill="WHITE">
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="55.0" prefWidth="183.0" text="person photo" textFill="WHITE">
                      <font>
-                        <Font name="Bauhaus 93" size="35.0" />
+                        <Font name="Bauhaus 93" size="30.0" />
                      </font>
                   </Label>
               </items>
@@ -40,9 +40,9 @@
                         <Cursor fx:constant="HAND" />
                      </cursor>
                   </Button>
-                  <Label prefHeight="55.0" prefWidth="183.0" text="ПОМОГИТЕ" textFill="WHITE">
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="55.0" prefWidth="183.0" text="group photo" textFill="WHITE">
                      <font>
-                        <Font name="Bauhaus 93" size="35.0" />
+                        <Font name="Bauhaus 93" size="30.0" />
                      </font>
                   </Label>
                </items>
